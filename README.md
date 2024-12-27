@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineer Student based on São Paulo, Brazil.<br><br>- :cloud: I’m working as a Cloud Computing Intern, focusing on Azure solutions, CI/CD, and automation.<br><br>- 📚 I'm currently learning Cloud and deepening my skills in Terraform, Docker, and DevOps practices.<br><br>- 🌱 Passionate about leveraging cloud technologies to solve complex problems and drive innovation.</p>
+<p align="left">I'm a Software Engineer Student based on São Paulo, Brazil.<br>- :cloud: I’m working as a Cloud Computing Intern, focusing on Azure solutions, CI/CD, and automation.<br>- 📚 I'm currently learning Cloud and deepening my skills in Terraform, Docker, and DevOps practices.<br>- 🌱 Passionate about leveraging cloud technologies to solve complex problems and drive innovation.</p>
 
 ###
 
@@ -35,16 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥  Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hellenrga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
