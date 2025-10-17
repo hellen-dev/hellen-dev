@@ -1,5 +1,5 @@
 <div align="left">
-  <a href="https://www.linkedin.com/in/hellenassisdev/" target="_blank">
+  <a href="https://www.linkedin.com/in/hellen-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:hellenassis.dev@gmail.com" target="_blank">
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineer Student based on São Paulo, Brazil.<br>- :cloud: I’m working as a Cloud Computing Intern, focusing on Azure solutions, CI/CD, and automation.<br>- 📚 I'm currently learning Cloud and deepening my skills in Terraform, Docker, and DevOps practices.<br>- 🌱 Passionate about leveraging cloud technologies to solve complex problems and drive innovation.</p>
+<p align="left">I'm a Software Engineer based on São Paulo, Brazil.<br>- :cloud: I’m working as a Cloud FinOps Specialist, focusing on Azure solutions, CI/CD, and automation.<br>- 📚 I'm currently learning Cloud and deepening my skills in Terraform, Docker, and DevOps practices.<br>- 🌱 Passionate about leveraging cloud technologies to solve complex problems and drive innovation.</p>
 
 ###
 
